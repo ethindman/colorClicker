@@ -1,5 +1,5 @@
 # Coding Dojo's ColorClicker!
-============
+
 This color clicker was built with increased functionality.
 
 Clicking the largest box will cause all the boxes to get assigned a new random color.
